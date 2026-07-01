@@ -6,7 +6,7 @@ accurate, honestly-evaluated one — and deploys it as a Streamlit web app.
 Built as a 2-hour coaching add-on for **Module 3 · Machine Learning & GenAI**,
 continuing from the C3.1 predictor.
 
-## 🚀 Live demo / run it
+## 🚀 Live demo / run it (conda environment = "hdb_project")
 
 ```bash
 pip install -r requirements.txt
